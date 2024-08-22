@@ -1,6 +1,7 @@
 Olá, eu sou Murillo Iago Moreira 👋
 
 Sobre Mim
+
 Sou formado em Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa (2024/1). Atualmente, estou focado no desenvolvimento de um projeto pessoal full-stack usando React.js e Node.js. Meu objetivo com este estudo é expandir meus conhecimentos e aplicar as melhores práticas em tecnologias modernas de desenvolvimento front e back-end.
 
 🛠️ Tecnologias e Ferramentas
