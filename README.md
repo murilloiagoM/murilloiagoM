@@ -6,9 +6,16 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa (2
 
 🛠️ Tecnologias e Ferramentas
 Front-end: React.js(Next.js), HTML, CSS e JavaScript.
+
 Back-end: Node.js e PHP.
+
+
 Outras Linguagens: Java, C e Delphi.
+
+
 Banco de Dados: MySQL e PostgreSQL.
+
+
 Desenvolvimento Mobile: Flutter
 
 🚀 Projetos
