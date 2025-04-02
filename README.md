@@ -2,7 +2,8 @@ Olá, eu sou Murillo Iago Moreira 👋
 
 Sobre Mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa (2024/1). Atualmente, estou focado no desenvolvimento de um projeto pessoal Full-Stack usando React.js e Node.js. Meu objetivo com este estudo é expandir meus conhecimentos e aplicar as melhores práticas em tecnologias modernas de desenvolvimento front e back-end.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa (2024/1). Desenvolvi um projeto pessoal Full-Stack usando React e Node.js. Meu objetivo com este estudo foi expandir meus conhecimentos e aplicar as melhores práticas em tecnologias modernas de desenvolvimento front e back-end.
+Atualmente estou atuando em Desenvolvimento Mobile, trabalhando como Desenvolvedor React Native Júnior.
 
 🛠️ Tecnologias e Ferramentas
 
@@ -18,8 +19,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa (2
 
 🚀 Projetos
 
-Atualmente possuo aqui no GitHub meu Projeto pessoal Full-Stack de um E-commerce de roupas: Desenvolvido com a biblioteca React.js, utilizando o Framework Next e Node no Backend, onde busco aperfeiçoar minha capacidade de criar aplicações web completas, desde a interface do usuário até a lógica do servidor.
+Possuo aqui no GitHub meu Projeto pessoal Full-Stack de um E-commerce de roupas: Desenvolvido com a biblioteca React.js, utilizando o Framework Next e Node no Backend, onde busco aperfeiçoar minha capacidade de criar aplicações web completas, desde a interface do usuário até a lógica do servidor.
 
-📚 Aprendizado
-
-Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. 
+Tenho também um projeto de receitas desenvolvido com React native, que serviu como teste para conseguir a vaga de Dev. Junior.
